@@ -1,3 +1,6 @@
 [submodule "wrestle-backend"]
 	path = wrestle-backend
 	url = git@github.com:johnsnoa/wrestle-backend
+[submodule "wrestle-frontend"]
+	path = wrestle-frontend
+	url = git@github.com:johnsnoa/wrestle-frontend

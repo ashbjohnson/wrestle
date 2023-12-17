@@ -1,0 +1,3 @@
+[submodule "wrestle-backend"]
+	path = wrestle-backend
+	url = git@github.com:johnsnoa/wrestle-backend
